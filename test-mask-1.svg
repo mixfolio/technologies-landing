@@ -1,0 +1,17 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="blur">
+            <feGaussianBlur stdDeviation="40" in="SourceGraphic" result="BLUR"></feGaussianBlur>
+        </filter>
+        <mask id="mask-1" x="0" y="0" width="1920" height="1080">
+            <rect x='0' y='0' width="1920" height="1080" fill="white" />
+            <text font-family="Arial Black" font-size="240" id='text' x='800' y='600' fill='black'>
+                SVG</text>
+        </mask>
+    </defs>
+    <g>
+        <rect x='0' y='0' width="1920" height="1080" fill="white" mask='url(#mask-1)'
+            filter="url(#blur)" />
+    </g>
+</svg>
