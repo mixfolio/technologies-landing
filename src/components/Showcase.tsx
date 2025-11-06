@@ -39,7 +39,7 @@ const Showcase = () => {
           className="border"
         />
         <div className="mask">
-          <img src="/mask-logo-3.svg" style={{ width: "100%" }} />
+          <img src="./mask-logo-3.svg" style={{ width: "100%" }} />
         </div>
       </div>
 

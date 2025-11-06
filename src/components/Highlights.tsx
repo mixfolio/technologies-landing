@@ -31,13 +31,13 @@ const Highlights = () => {
             <p>Fly through demanding tasks up to 9.8x faster.</p> */}
           </div>
           <div>
-            <img src="/water-icon-48.svg" alt="Водоснабжение" />
+            <img src="./water-icon-48.svg" alt="Водоснабжение" />
             <p>Водоснабжение</p>
           </div>
         </div>
         <div className="right-column">
           <div className="apple-gradient">
-            <img src="/radiator-icon-48.svg" alt="AI" />
+            <img src="./radiator-icon-48.svg" alt="AI" />
             {/* <p>
               Built for <br />
               <span>Apple Intelligence.</span>
@@ -48,7 +48,7 @@ const Highlights = () => {
             </p>
           </div>
           <div>
-            <img src="/clear-icon-48.svg" alt="Водоотведение" />
+            <img src="./clear-icon-48.svg" alt="Водоотведение" />
             {/* <p>
               Up to <span className="green-gradient">14 more hours</span>{" "}
               battery life.{" "}

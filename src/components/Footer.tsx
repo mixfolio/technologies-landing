@@ -8,7 +8,7 @@ const Footer = () => {
           <span className="">Технологии</span> – бренд компании ООО «НПО
           «Промтрейд»
         </p>
-        <img src="/main-logo-24.svg" alt="Логотип Технологии" />
+        <img src="./main-logo-24.svg" alt="Логотип Технологии" />
       </div>
 
       <hr />
