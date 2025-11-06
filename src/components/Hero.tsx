@@ -44,7 +44,7 @@ const Hero = () => {
           Умные решения для котельных и водохозяйственных объектов
         </h2> */}
         {/* <img src="/title.png" alt="MacBook Title" /> */}
-        <img src="/hero-text.png" alt="MacBook Title" />
+        <img src="./hero-text.png" alt="MacBook Title" />
       </div>
       {/* 
       <video
@@ -57,7 +57,7 @@ const Hero = () => {
       <img
         id="monitor"
         className="absolute opacity-40"
-        src="/display-schema.svg"
+        src="./display-schema.svg"
         width={1200}
         // style={{ transform: "rotate(10deg)" }}
         alt="Монитор"
