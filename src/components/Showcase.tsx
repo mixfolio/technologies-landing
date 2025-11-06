@@ -31,12 +31,11 @@ const Showcase = () => {
         <video
           style={{ opacity: 0 }}
           id="schema"
-          src="/videos/client-2.m4v"
+          src="./videos/client-2.m4v"
           loop
           muted
           autoPlay
           playsInline
-          className="border"
         />
         <div className="mask">
           <img src="./mask-logo-3.svg" style={{ width: "100%" }} />
